@@ -11,6 +11,6 @@ for i in range(n):
         doubt *= a[i]
 print(f'Your arr:{a}')
 if doubt == 1:
-    print('You haven't doubt')
+    print('You have not doubt')
 else:
     print(f'Your doubt:{doubt}')
